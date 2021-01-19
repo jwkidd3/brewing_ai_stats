@@ -1,7 +1,5 @@
 # Introduction to Statistics
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2stats/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
 
 Inspired by Allen Downey's books [Think Stats](http://greenteapress.com/thinkstats/) and [Think Bayes](http://greenteapress.com/thinkbayes/), this is an attempt to learn Statistics using an application-centric programming approach. 
 
@@ -25,21 +23,9 @@ Showcase real-life examples and what statistics to use in each of those examples
 * A simple linear regression model
 
 ## Workshop Plan
-We would be using Marijuana prices in various states of the USA, along with demographic data of the USA based on the latest census data
+Using Marijuana prices in various states of the USA, along with demographic data of the USA based on the latest census data
 
-There will be separate ipython notebooks - grouped by topic similarities. *notebooks will be uploaded later*
-Some examples include:
-* Find sum of people buying weed in a year, by various states.
-* Find mean of price in a week/month, by various states.
-* Find variance of price in selected states. Find variance of selected states by week of month
-* Define distribution. Plot histograms
-* Determining outliers (Plots, quantiles, box plots, percentiles) in weed price data
-* Continuous distributions(exponential distribution, normal distribution)
-* Introduction to Probability
-* Hypothesis testing. Check if weed price across states are similar or not. Check for different qualities of weed
-* Resampling
-* Simple regression model: Predict weed price for the next month. Understand the output and diagnostics
-* Introduction to A/B testing: Impact of regulation and deregulation on a couple of states 
+Separate ipython notebooks - grouped by topic similarities. 
 
 
 ## Prerequisites
@@ -52,7 +38,7 @@ Some examples include:
     * Seaborn
     * IPython and IPython notebook - Everything here would be an IPython notebook
 * Software Requirements
-    * Python 2.7
+    * Python 2.7 (min)
     * git - so that this repo can be cloned :)  
     * virtualenv
     * Libraries from *requirements.txt*
