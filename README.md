@@ -54,7 +54,7 @@ Users could choose to install Anaconda, if they want. If using Anaconda or Entho
     $ git clone https://github.com/jwkidd3/brewing_ai_stats.git
 
 #### Create a virtual environment & activate
-    $ cd intro2stats
+    $ cd brewing_ai_stats
     $ virtualenv env
     $ source env/bin/activate
 
