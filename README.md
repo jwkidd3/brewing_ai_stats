@@ -51,7 +51,7 @@ Users could choose to install Anaconda, if they want. If using Anaconda or Entho
 ## Setup Guide
 
 #### Clone the repository
-    $ git clone https://github.com/rouseguy/intro2stats.git
+    $ git clone https://github.com/jwkidd3/brewing_ai_stats.git
 
 #### Create a virtual environment & activate
     $ cd intro2stats
@@ -75,8 +75,3 @@ Please execute the following at the command prompt
 If any library has a `FAIL` message, please install/upgrade that library.
 
 ---
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Introduction to Statistics using Python</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://twitter.com/bargava/" property="cc:attributionName" rel="cc:attributionURL">Bargava</a> and <a xmlns:cc="http://creativecommons.org/ns#" href="https://twitter.com/raghothams/" property="cc:attributionName" rel="cc:attributionURL">Raghotham</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-
-
