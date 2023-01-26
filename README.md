@@ -48,30 +48,6 @@ Users could choose to install Anaconda, if they want. If using Anaconda or Entho
 
 *Note to Windows Users*: Neither of us use Windows. From past workshop experiences, Windows users have faced issues installing the way explained below. It is advisable to install Anaconda and ensure that all the libraries listed in the *requirements.txt* file are installed.  
 
-## Setup Guide
 
-#### Clone the repository
-    $ git clone https://github.com/jwkidd3/brewing_ai_stats.git
-
-#### Create a virtual environment & activate
-    $ cd brewing_ai_stats
-    $ virtualenv env
-    $ source env/bin/activate
-
-#### Install reqirements from requirements file
-    $ pip install -r requirements.txt
-
-#### Note: Make sure you have libraries for png & freetype.
-Ubuntu users can install the below
-
-    apt-get install libfreetype6-dev
-    apt-get install libpng-dev
-
-### Script to check if installation is fine for the workshop
-Please execute the following at the command prompt
-
-    $ python check_env.py
-
-If any library has a `FAIL` message, please install/upgrade that library.
 
 ---
